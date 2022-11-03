@@ -1,0 +1,13 @@
+.avatar{
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left:20px;
+    
+}
+.search {
+margin-right: 20px;
+position: absolute;
+}
+.name{
+    margin-left: 10px;
+}
